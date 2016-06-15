@@ -1,0 +1,628 @@
+a abate?a (se) indrepta
+a abrutiza? a (se) civiliza
+a acoperi? a (se) descoperi
+a aduna?a (se) scadea
+a agita?a (se) calma
+a agrava?a (se) ameliora
+a agrega?a (se) dezagrega
+a alarma?a (se) calma
+a albi?a (se) innegri
+a ameliora?a (se) agrava
+a ameti?a (se) dezmeti
+a angaja?a (se) concedia
+a apara?a ataca
+a aprinde?a (se) stinge
+a apropia?a (se) departa
+a ascuti?a (se) timpi
+a asemana?a (se) deosebi
+a asocia?a (se) disocia
+a aseza?a (se) ridica
+a atenua?a (se) intensifica
+a-si reveni?a se vlagui
+a abandona?a adopta
+a abdica?a inscauna
+a aboli?a instaura
+a abroga?a valida
+a absenta?a asista
+a abstractiza?a concretiza
+a accelera?a incetini
+a accepta?a dezaproba
+a achita?a acuza
+a aclama?a huidui
+a acoperi?a destainui
+a acorda?a dezacorda
+a acuza?a indreptati
+a adauga?a reduce
+a ademeni?a dezgusta
+a adeveri?a infirma
+a admira?a dispretui
+a admite?a interzice
+a se bucura?a (se) intrista
+a bagateliza?a supraaprecia
+a balasta?a debalasta
+a bate?a se opri
+a baga?a scoate
+a baigui?a raspica
+a barfi?a elogia, a lauda
+a besteli?a lauda
+a binecuvanta?a afurisi,a blestema
+a birui?a pierde
+a blama?a lauda
+a bleojdi?a ciuli, a miji
+a blestema?a binecuvanta
+a bloca?a debloca
+a bobina?a dezbobina
+a boci?a chicoti
+a boti?a calca
+a brusca?a menaja
+a brutaliza?a menaja
+a bucura?a indispune, a se mahni
+a buimaci?a dezmetici
+a se bosumfla?a se inveseli, a se inviosa
+a se buimaci?a se dezmetici
+bagatelizare?supraapreciere, supraestimare
+balsam?miasma, duhoare
+banal?sublim, extraordinar, original
+barbarie?civilizatie
+batjocura?lauda
+baza?varf
+a se calma?a (se) agita, a (se) alarma, a (se) tulbura, a (se) zbuciuma
+a se casatori?a (se) desparti, a divorta
+a se civiliza?a (se) indobitoci, a (se) salbataci
+a se cobori?a (se) inalta, a (se) urca, a creste, a se majora, a (se) ridica, a (se) sui
+a se colora?a (se) decolora
+a se complica?a (se) simplifica
+a se concentra?a (se) dispersa, a (se) imprastia
+a se confunda?a deosebi, a discerne
+a se contracta?a (se) dilata
+a se critica?a (se) lauda
+a se culca?a (se) destepta, a (se) scula
+a se curata?a (se) manji, a (se) murdari
+a calma?a agasa, a atata
+a camufla?a evidentia
+a captiva?a plictisi, a dezgusta
+a cadea?a rezista, a (se) ridica, a supravietui, a tine
+a calca?a sifona, a respecta
+a castiga?a pagubi, a pierde
+a ceda?a se impotrivi
+a centra?a descentra
+a centraliza?a descentraliza
+a cere?a da, a oferi
+a certa?a lauda
+a cheltui?a economisi, a strange
+a chema?a alunga
+a chicoti?a boci
+a cinsti?a defaima, a necinsti
+a cladi?a darama, a demola, a distruge, a strica
+a coase?a descoase
+a cobori?a creste, a (se) sui, a se ridica
+a se decolora?a (se) colora
+a se demobiliza?a (se) mobiliza
+a se deosebi?a semana
+a se departa?a (se) apropia
+a se descalta?a (se) incalta
+a se deschide?a (se) inchide
+a se descinge?a (se) incinge
+a se descleia?a (se) incleia, a (se) lipi
+a se descolaci?a (se) incolaci
+a se descoperi?a (se) acoperi
+a se descreti?a (se) increti
+a se descurca?a (se) incurca, a (se) incalci
+a se desface?a (se) face, a (se) strange
+a se desfasura?a (se) infasura
+a se desira?a (se) insira
+a se desparti?a (se) casatori, a (se) impreuna, a (se) reuni, a (se) uni
+a se desperechea?a (se) imperechea
+a se despodobi?a (se) gati, a (se) impodobi
+a se despreuna?a (se) impreuna
+a se desprinde?a (se) prinde
+a se destinde?a (se) incorda
+a se destepta?a (se) culca, a adormi
+a se dezagrega?a (se) agrega
+a se dezbara?a (se) obisnui, a (se) invata
+a se dezbata?a (se) imbata
+a se dezbina?a (se) imbina, a (se) uni
+a se dezbraca?a (se) imbraca
+a se dezechilibra?a (se) echilibra
+a se dezgheta?a ingheta
+a se dezgoli?a (se) inveli
+a se echilibra?a (se) dezechilibra
+a se expatria?a (se) repatria
+a echipa?a dezechipa
+a economisi?a irosi, a risipi
+a egaliza?a inegaliza
+a elibera?a angaja, a aresta, a aservi, a cotropi, a cuceri, a inrobi, a robi, a subjuga, a supune
+a elimina?a primi
+a elogia?a barfi, a defaima, a denigra, a ponegri
+a emigra?a se repatria
+a emite?a receptiona
+a epura?a polua
+a estompa?a reliefa, a sublinia
+a esua?a izbuti, a reusi
+a evidentia?a ascunde, a masca
+a evolua?a decadea, a involua, a regresa
+a exclude?a include
+a exhuma?a inhuma, a inmormanta, a ingropa
+a expatria?a repatria
+a expedia?a receptiona
+a exporta?a importa
+a expropria?a improprietari
+a extinde?a restrange, a stramtora
+a se extinde?a se restrange
+echilibrare?dezechilibrare
+echilibrat?dezechilibrat
+echilibru?dezechilibru
+echipare?dezechipare
+echipat?dezechipat
+echitabil?inechitabil, neechitabil
+echitate?inechitate, nedreptate
+a se face?a (se) desface
+a se fortifica?a (se) ramoli
+a face?a strica
+a fauri?a distruge
+a favoriza?a defavoriza
+a fereca?a dezlantui, a desfereca
+a ferici?a neferici
+a fertiliza?a defertiliza
+a fi?a lipsi
+a finisa?a incepe
+a flata?a jigni
+a folosi?a dauna
+a fortifica?a slabi
+a funda?a lichida
+a se fortifica?a se ramoli, ase harbui, a slabi
+a se framanta?a se linisti
+fabulos?infim
+facere?desfacere
+facil?dificil, greu
+facultativ?obligatoriu
+fad?expresiv, gustos
+failibil?infailibil
+fala?modestie, simplete
+falit?solvabil
+falnic?nearatos
+fals?adevarat, autentic, original, sincer, neprefacut
+falsificat?adevarat
+familist?burlac, celibatar, holtei, flacau
+fariseic?franc, ingenuu, sincer
+fantastic?real
+a se grabi?a incetini
+a se gramadi?a (se) imprastia
+a gasi?a pierde
+a generaliza?a particulariza
+a glorifica?a defaima, a denigra, a ponegri, a ponosi
+a goli?a umple
+a grabi?a incetini, a tempera
+a grai?a tacea
+a gramadi?a imprastia, a irosi, a rasfira, a rezleti, a risipi
+a gratia?a condamna
+a se gasi?a lipsi
+a se gati?a se despodobi, a se dezgati
+a se ghebosa?a se indrepta
+a se ghemui?a se indrepta
+a se grabi?a se mocai, a zabovi
+a se gramadi?a se imprastia, a se raschira, a se rasfira, a se razleti, a se risipi
+galagie?liniste, mutenie, tacere, linistit
+galant?avar, calic, carpanos, vulgar, zgarcit
+galanterie?badaranie, bruschete, brutalitate
+galantom?avar, calic, carpanos, zgarcit
+galantomie?avaritie, calicie, carpanosie, zgarcenie
+galben?rosu, rumen
+galofil?francofob, galofob
+galofob?francofil, galofil
+gandit?nechibzuit
+gasit?pierdut
+gaunos?plin, sanatos
+gata?negata
+gagalice?namila
+general?individual, particular
+a hidrata?a deshidrata
+a holba?a miji
+a huidui?a aclama
+a huli?a lauda
+a se harnici?a se lenevi
+a se hidrata?a se dehidrata
+hain?milos, milostiv
+hapsan?milos, milostiv
+haos?ordine
+harnic?lenes, lenos, trandav, puturos
+harnicie?lenevie, trandavie
+haz?mahna, mahnire, necaz
+hazliu?posac
+hamesit?imbuibat, supraalimentat
+hatru?prost
+hidos?chipes, frumos, mandru
+hidosenie?frumusete
+hidrofil?hidrofob
+hidrofilie?hidrofobie
+hidrofob?hidrofil
+hidrofobie?hidrofilie
+higrofil?higrofob
+higrofob?higrofil
+hipertensiune?hipotensiune, hipotonie
+hipertermie?hipotermie
+hipotermie?hipertermie
+hitlerist?antihitlerist
+holtei?familist
+hotarat?ezitant, nedecis, nehotarat, sovaielnic, indecis, neferm, nesigur, sovaitor
+hotarator?nedeterminant
+a se ieftini?a (se) scumpi
+a se intimida?a (se) imbarbata, a (se) incumeta, a indrazni, a (se) incuraja
+a se intensifica?a (se) domoli, a (se) modera, a (se) potoli, a (se) tempera
+a se intoxica?a (se) dezintoxica
+a se iubi?a (se) uri
+a se ivi?a disparea
+a se indispune?a (se) invoiosa
+a ieftini?a scumpi
+a ierna?a vara
+a ierta?a osandi, a pedepsi
+a iesi?a intra, a vari
+a importa?a exporta
+a include?a exclude
+a incrimina?a dezvinovati
+a inculpa?a justifica, a dezvinovati
+a indispune?a bucura
+a infecta?a dezinfecta
+a insensibiliza?a sensibiliza
+a institui?a lichida, a suprima
+a integra?a dezintegra
+a intensifica?a potoli, a slabi
+a interzice?a ingadui, a invoi, a lasa, a permite
+a intoxica?a dezintoxica
+a intra?a iesi
+a invalida?a valida
+a irosi?a aduna, a economisi
+a ispiti?a dezgusta
+a iubi?a uri
+a izbuti?a esua
+a ispravi?a incepe
+a se jilavi?a (se) usca
+a jigni?a flata, a maguli
+a jilavi?a usca
+a justifica?a acuza
+jenat?nestingherit, nestanjenit
+jena?indrazneala
+jigarit?zdravan
+jignitor?magulitor
+jilav?uscat
+jos?inalt, sus
+josnic?cinstit, nobil, onest, maret
+jovial?mahnit, mohorat, posomorat, sumbru, trist
+judecat?nejudecat
+judicios?nechibzuit
+june?batran
+junete?batranete
+just?gresit, injust, nejust, nedrept, neadevarat
+justete?injustete
+justificabil?acuzabil, nejustificabil
+justificat?nejustificat
+justitie?injustitie
+a se largi?a (se) stramta
+a se lasa?a (se) ridica
+a se lati?a (se) ingusta
+a se lauda?a (se) critica
+a se limpezi?a (se) tulbura
+a se linisti?a (se) agita, a (se) tulbura
+a se lipi?a (se) dezlipi
+a se lumina?a (se) intuneca
+a se lungi?a (se) micsora, a (se) scurta
+a largi?a ingusta
+a lauda?a admonesta, a barfi, a blama, a denigra, a huli
+a lega?a dezlega
+a licentia?a angaja
+a lichida?a funda
+a linisti?a alarma
+a lipsi?a se afla
+a lua?a da
+a lucra?a (se) odihni, a sedea, a trandavi, a trantori
+a se largi?a se ingusta
+a se lenevi?a se harnici
+a se linisti?a se alarma, a se zbantui, a se zbate, a se zbuciuma,
+labil?ilabil, nevariabil, nelabil, neschimbator, stabil
+laborios?lenes, lenos
+laconic?prolix
+lacuna?perfectiune
+laic?bisericesc, cleric, religios
+lamurit?confuz, nedeslusit, nelamurit
+laolalta?separat
+lapidar?restrans, strans
+larg?ingust, stramt, strans, restrans
+a se machia?a (se) demachia
+a se masca?a (se) demasca
+a se mari?a (se) micsora, a (se) reduce
+a se manji?a (se) curata
+a se micsora?a (se) lungi, a (se) mari, a creste, a spori
+a se mobiliza?a (se) demobiliza
+a se modera?a (se) intensifica
+a se mohori?a (se) invoiosa
+a se muia?a (se) intari
+a se multumi?a (se) nemultumi
+a se murdari?a (se) curata
+a magnetiza?a demagnetiza
+a majora?a micsora
+a maltrata?a menaja
+a masca?a demasca, a vadi
+a manifesta?a masca, a tainui
+a maguli?a ofensa
+a mari?a (se) imputina, a denigra, a diminua
+a marturisi?a ascunde, a tainui, a tacea, a tagadui
+a mantui?a incepe
+a memora?a uita
+a memoriza?a uita
+a menaja?a brusca, a brutaliza
+a merge?a sta, a (se) opri
+a micsora?a majora
+a migali?a se pripi
+a mina?a demina
+a minimaliza?a supraaprecia, a supraevolua, a supraestima
+a mitiza?a demitiza
+a monta?a demonta, a dezasambla
+a se naste?a (se) sfarsi, a deceda, a muri, a pieri, a raposa, a sucomba, a ucide
+a se nemultumi?a (se) multumi, a (se) satisface
+a nauci?a dezmetici
+a necinsti?a cinsti
+a nedumeri?a dumeri
+a neferici?a ferici
+a nega?a afirma, a confirma, a recunoaste, a sustine
+a nesatisface?a satisface
+a nesocoti?a respecta
+a nimici?a crea
+a numi?a destitui, a revoca, a licentia
+a se nauci?a se dezmetici
+a se nelinisti?a se domoli
+a se nivela?a se denivela
+nadajduire?deznadajduire
+nadejde?deznadejde
+naduf?racoare
+naiv?banuitor
+namila?pitic
+napasta?noroc
+nascocit?adevarat
+nascut?defunct
+nastere?deces, moarte, raposare
+natalitate?mortalitate
+natang?destept, inteligent
+natarau?ager, destept, inteligent, mintios
+natural?artificial, miraculos, nenatural
+nauc?destept, inteligent, mintios
+naucire?dezmeticire
+nazuros?necapricios
+a se obisnui?a (se) dezbara, a (se) dezobisnui
+a se odihni?a lucra, a munci
+a se opri?a (se) porni
+a se organiza?a (se) dezorganiza
+a se orienta?a (se) dezorienta
+a odoriza?a dezodoriza
+a oferi?a cere
+a omagia?a denigra
+a onora?a dezonora
+a opri?a permite
+a orbi?a vedea
+a orienta?a deruta, a dezorienta
+a se obisnui?a se debarasa, a se dezvata
+a se opri?a continua, a se misca
+oaches?balai, blond
+obiectiv?subiectiv
+obiectivitate?subiectivitate
+obiectivizat?subiectivizat
+obisnuire?dezvatare
+obisnuit?deosebit, grozav, neobisnuit
+obligatoriu?facultativ, neobligatoriu
+oboseala?odihna
+obosit?odihnit, neobosit
+obraznic?ascultator, cuminte, cuviincios, respectuos
+obraznicie?buna-cuviinta
+obscur?clar, limpede, luminos, renumit
+obscuritate?claritate, lumina, stralucire
+observabil?inobservabil, neobservabil
+obtuz?ager, ascutit, inteligent
+ocara?lauda
+a se pastra?a (se) schimba
+a se posomori?a (se) bucura
+a se potoli?a (se) agita, a (se) intarata, a (se) intensifica
+a se prinde?a (se) desprinde
+a se pripi?a zabovi
+a pagubi?a castiga
+a particulariza?a generaliza
+a paturi?a despaturi
+a pava?a depava
+a pecetlui?a desigila, a despecetlui
+a pedepsi?a ierta
+a permite?a interzice
+a pica?a ridica
+a pierde?a birui, a castiga, a dobandi, a gasi, a insusi
+a pieri?a (se) naste, a invia, a trai, a vietui
+a placea?a dezgusta, a displacea
+a plange?a rade
+a pleca?a sosi, a veni
+a polariza? depolariza
+a polua?a depolua, a epura, a purifica
+a ponegri?a elogia, a glorifica, a lauda, a proslavi
+a ponosi?a glorifica, a proslavi, a preamari
+a popi?a despopi, a raspopi
+a popula?a dezpopula
+a postdata?a antedata
+a postfata?a prefata
+a potcovi?a despotcovi
+a preamari?a defaima, a denigra
+a preceda?a succeda, a urma
+a prefata?a postfata
+a se raci?a (se) incalzi
+a se racori?a (se) infierbanta
+a se ramoli?a (se) fortifica
+a se rasfira?a (se) strange
+a se razleti?a (se) uni
+a se razvrati?a (se) supune
+a se reduce?a (se) mari, a spori
+a se repatria?a (se) expatria
+a se ridica?a (se) aseza, a (se) injosi, a cadea, a scadea
+a se ruina?a (se) imbogati, a (se) inavuti
+a raci?a infierbanta
+a racni?a sopti
+a rade?a plange
+a raposa?a (se) naste
+a rari?a indesi
+a rasari?a apune, a asfinti, a muri, a scapata
+a rascumpara?a amaneta
+a rasfira?a gramadi
+a raspopi?a popi
+a raspunde?a intreba
+a rasturna?a inscauna
+a rasuci?a desuci, a dezrasuci
+a ravasi?a aranja
+a razleti?a impreuna, a gramadi
+a reincheia?a redescheia
+a receptiona?a emite
+a recunoaste?a nega, a tagadui
+a redescheia?a reincheia
+a redeschide?a reinchide
+a reduce?a adauga, a amplifica, a spori
+a se scadea?a (se) aduna
+a se scufunda?a aparea
+a se scula?a (se) aseza, a (se) culca
+a se scumpi?a (se) ieftini
+a se scurta?a (se) lungi
+a se separa?a (se) imbina, a (se) impreuna, a (se) uni
+a se sfarsi?a (se) incepe, a (se) naste, a incepe
+a se slabi?a (se) incorda
+a se starni?a (se) potoli
+a se stinge?a (se) aprinde
+a se stramba?a (se) indrepta, a (se) largi
+a se strange?a (se) desface, a (se) imprastia, a (se) intinde, a (se) rasfira
+a se subtia?a (se) ingrosa
+a se sui?a cobori
+a se supara?a (se) impaca
+a se supune?a (se) razvrati
+a salbatici?a domestici
+a saraci?a (se) imbogati
+a satisface?a nesatisface
+a scadea?a (se) ridica, a (se) umfla, a (se) urca, a adauga, a creste, a spori,
+a scapata?a rasari
+a scoate?a baga, a vari, a scufunda
+a scrie?a sterge
+a scula?a aseza
+a scumpi?a ieftini
+a scurta?a alungi, a prelungi
+a se saliniza?a se desaliniza
+a se slei?a se topi
+a se solidariza?a se desolidariza
+a se stinge?a arde
+a se tempera?a (se) intensifica
+a se termina?a incepe
+a se toci?a (se) ascuti
+a se trezi?a (se) imbata, a adormi
+a se tulbura?a (se) calma, a (se) limpezi, a (se) linisti
+a se topi?a ingheta
+a se transforma?a se mentine
+a se trudi?a trandavi, a trantori
+a se tulbura?a se limpezi
+a se turmenta?a se dezbata
+a tacea?a grai, a spune, a vorbi, a zice
+a tainui?a destainui, a marturisi
+a tempera?a grabi
+a tenta?a dezgusta
+a trai?a muri
+a trandavi?a lucra, a munci, a se trudi
+a trantori?a lucra, a munci, a se trudi
+a tunchi?a ascuti
+tacere?destainuire, galagie, larma, marturisire, strigat, tipat, vorbire, zgomot
+taciturn?comunicativ, flecar, guraliv, limbut, palavragiu, vorbaret
+tacticos?netacticos
+tacut?comunicativ, guraliv, limbut, palavragiu, vorbaret
+taios?netaios, tocit, tunchit
+talentat?mediocru, netalentat
+tamp?ager, destept, inteligent, istet, mintios
+tanar?batran, varstnic
+tandrete?cruzime
+tangibil?intangibil
+taraganare?grabire
+taraganeala?graba
+a se umezi?a (se) usca
+a se umfla?a (se) dezumfla, a scadea
+a se uni?a (se) desparti, a (se) dezbina, a (se) separa
+a se urca?a scadea, a (se) cobori
+a se uri?a (se) indragi, a (se) iubi
+a se usca?a (se) jilavi, a (se) umezi
+a se usura?a (se) ingreuia
+a umfla?a dezumfla
+a uita?a memora, a memoriza
+a umple?a deserta, a goli
+a uniformiza?a diversifica, a varia
+a urma?a preceda
+a usca?a uda, a umezi
+a usura?a impovara, a ingreuna
+ud?uscat
+udare?uscare
+udat?uscat
+uitare?neuitare
+ulterior?anterior, precedent, premergator
+ultim?intai, prim
+ultimul?primul
+ultramodern?arhiinvechit
+uman?antiumanitar, inuman, neuman, neomenesc, antiuman
+umanitar?antiumanitar
+umed?uscat
+umezit?uscat
+umflat?dezumflat
+umiditate?uscaciune
+unitate?diversitate
+unic?general, multiplu
+a se veseli?a (se) intrista
+a se vedea?a se pierde
+a se vestezi?a-si reveni, a se inviora
+a se vlagui?a-si reveni, a se redresa
+a vadi?a masca, a voala
+a valida?a aboli, a abroga, a invalida
+a vara?a ierna
+a vari?a scoate
+a varia?a uniformiza
+a vedea?a orbi
+a veghea?a dormi
+a venera?a defaima, a detesta
+a veni?a (se) duce, a pleca
+a vicia?a purifica
+a vietui?a muri
+a vinde?a cumpara
+a voala?a releva, a reliefa, a vadi
+a vorbi?a tacea
+vacant?ocupat
+vag?clar, precis
+valabil?nevalabil
+valabilitate?nevalabilitate
+vale?deal
+valid?infirm, invalid, nevalid
+validare?abolire, abrogare, invalidare
+validitate?invaliditate
+valoare?nonvaloare
+valorificat?nevalorificat
+valoros?nevaloros
+valuros?neted
+xenofil?xenofob
+xenofob?xenoman
+xenoman?xenofob
+a se zbuciuma?a (se) calma
+a se zapaci?a se dezmetici
+a se zbantui?a se linisti
+a se zbate?a se linisti
+a se zbuciuma?a se calma, a se linisti
+a zabovi?a se grabi, a (se) pripi
+a zadarnici?a stimula
+a zapaci?a dezmetici
+a zice?a tacea
+a zidi?a darama, a strica
+zabava?graba
+zamislit?nezamislit
+zapacire?dezmeticire
+zapacit?dezmeticit
+zbucium?astampar, calm, liniste
+zdravan?jigarit, pipernicit, sfrijit, slabanog
+zevzec?destept
+zgarcenie?galantomie, marinimie
+zgarcit?darnic, galant, galantom
+zgomot?liniste, tacere
+zi?noapte
+zidire?demolare
+ziua?noaptea
+zlotos?secetos
+zoios?curat
+zori?amurg, seara, apus
